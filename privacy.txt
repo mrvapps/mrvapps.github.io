@@ -1,0 +1,52 @@
+Statement About Jelly Stream and Privacy
+
+Update date:2026.2.22
+
+Jelly Stream is an app provided by Matheus Rodrigues do Vale (hereinafter referred to as "we", "us", or "our") to allow users to stream media from their personal self-hosted servers. This Privacy Statement describes how we process your personal information.
+We take your personal information and privacy seriously, and will take appropriate security measures to protect your personal information in accordance with relevant laws and established industry security standards.
+The Privacy Statement Summary provides a brief overview of the purposes, methods, and scope of how the app collects and uses your personal information. To provide services for you, we also perform the following actions during service provisioning:
+Jelly Stream acts as a client to connect to your personal media server. We do not collect your media content or credentials. We use Huawei SDKs to improve app stability and display ads.
+1. How we collect and use your personal information
+We will use your personal information only within the scope specified by laws and regulations. Based on applicable laws, we may use your personal information based on the following legal grounds: your consent, to fulfill the requirements of a contract between you and us, or to fulfill legal obligations.
+1.1 We provide you with the following features: Media Streaming. When you use our service, we will need to process some necessary information, so as to enter into a contract. If you do not provide the related information, your use of the features in this app will be affected.
+To implement app features, after obtaining your consentwe need to collect your Network connection information and server login credentials. .
+Network connection information and server login credentials.
+2. Required permissions
+Activity tracking(Reads the open anonymous device ID (OAID).)
+1. Internet (ohos.permission.INTERNET): Required to connect to your personal server and stream media.
+2. App Tracking Consent (ohos.permission.APP_TRACKING_CONSENT): Requested to provide personalized ads via Petal Ads.
+3. Third-party SDKs
+To provide you with certain features or services, we have integrated software development kits (hereinafter referred to as "SDKs") or other similar programs of our partners. We perform strict security checks on SDKs or other similar programs and require our partners to take strict measures to protect your personal data. To meet new service requirements or accommodate service feature changes, we may adjust the third-party SDKs we integrate, in which case we will explicitly update you about the SDKs in this description in a timely manner. Please note that the types of data collected by third-party SDKs may change due to factors such as version upgrades or policy adjustments. The specific changes will be confirmed in the official statement.
+1、SDK 1
+Third-party company: Huawei Software Technologies Co., Ltd.
+Product/Type: Petal Ads SDK (Ads Kit)
+Type of information collected: OAID,Device identifiers (such as OAID) and network information
+Purpose: To provide and display native advertisements inside the application.
+Usage scenario: When the user is browsing the media library.
+Collection method: Automatically collected by the SDK.
+Rule for third-party processing of personal information: https://consumer.huawei.com/en/privacy/privacy-policy/
+2、SDK 2
+Third-party company: Huawei Software Technologies Co., Ltd.
+Product/Type: AppGallery Connect SDK (Crash and Analytics)
+Type of information collected: App crash logs, device model, and operating system version.
+Purpose: To monitor app stability, analyze crashes, and improve application performance.
+Usage scenario: When the application is running or encounters a crash.
+Collection method: Automatically collected in the background.
+Rule for third-party processing of personal information: https://developer.huawei.com/consumer/en/privacy/
+4. Managing your personal information
+You can view, copy, rectify, and delete your personal information through the following ways:
+4.1 Withdrawing your consent
+If you want to cancel the permission for personalized ads to process your information, you can go to HarmonyOS Settings > Privacy > Ads and Personalization to withdraw your consent.
+If you have any further requests, questions, comments, or suggestions regarding your rights as a data subject, please contact us using the details provided in the "How to contact us" section of this Statement.
+5. Information storage location and retention period
+5.1 We promise that, unless otherwise stipulated by laws or regulations, the retention period for your personal information will be the shortest period necessary to achieve the processing purpose.
+5.2 The above information will be sent to and stored on the server located in the user's device and the user's personal self-hosted server..
+6. Personal Server Disclaimer
+Jelly Stream does not host, provide, distribute, or store any media content. Users must provide their own server infrastructure and are solely responsible for the media they stream through the application.
+7. How to contact us
+You can contact us through the following channels to exercise your rights, and we will reply as soon as possible.
+Email address:suporte.mrv93@gmail.com
+For any privacy-related questions or support, please contact us at: suporte.mrv93@gmail.com
+If you are unsatisfied with the response you receive, particularly if you believe our processing or handling of your personal information has violated your legal rights or interests, you have the right to seek external resolution. This could involve filing a lawsuit with the competent people's court, lodging a complaint with an industry self-regulation association or relevant government regulatory agencies, or pursuing other available avenues. You can also consult us regarding the available channels for voicing your complaint.
+
+Effective date:2026.2.21
